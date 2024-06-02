@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawantiwari23" alt="pawantiwari23" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on **Electronic Project**
 
 - 🌱 I’m currently learning **Spring, jQuery, nodejs**
 
-- 🤝 I’m looking for help with **E-Commerce Project **
+- 🤝 I’m looking for help with **Indian Culture**
 
 - 💬 Ask me about **java, python, js, Flask**
 

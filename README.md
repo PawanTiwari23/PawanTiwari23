@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Electronic Project**
+- 🔭 I’m currently working on ** Software Project**
 
-- 🌱 I’m currently learning **Spring, jQuery, nodejs**
+- 🌱 I’m currently learning **Spring, Spring boot , nodejs**
 
 - 🤝 I’m looking for help with **Indian Culture**
 
-- 💬 Ask me about **java, python, js, Flask**
+- 💬 Ask me about **java, python, js, Spring ,  Flask**
 
 - 📫 How to reach me **pawantiwari.wd.bca.22@gmail.com**
 

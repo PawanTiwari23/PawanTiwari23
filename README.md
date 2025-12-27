@@ -125,7 +125,19 @@ I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journe
 
 <br/>
 
+### 🏆 Achievements & Streaks
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PawanTiwari23" alt="trophy" />
+  </a>
+</div>
+
+<br/>
+-----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanTiwari23&hide_border=true" alt="GitHub Streak" />
+</div>
 
 
 

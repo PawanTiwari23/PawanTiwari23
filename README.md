@@ -89,10 +89,7 @@ I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journe
 
 ### &nbsp;&nbsp;📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PawanTiwari23&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanTiwari23&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" height="150" />
-</div>
+
 
 <br/>
 

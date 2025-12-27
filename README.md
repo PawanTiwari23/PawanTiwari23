@@ -5,8 +5,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f9b0f&height=180&section=header&text=PAWAN%20TIWARI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Backend%20Developer%20(Fresher)&descAlignY=65&descSize=20&descColor=0f9b0f" width="100%" alt="Header" />
    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38B6FF&center=true&vCenter=true&width=435&lines=Java+Backend+Developer+%E2%98%95;Developing+Efficient+Backend+Logic
-      +%E2%9A%99%EF%B8%8F;Optimizing+Database+Queries+%F0%9F%92%BE;Open+to+Work+%7C+Immediate+Joiner+%E2%9C%85" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38B6FF&center=true&vCenter=true&width=435&lines=Java+Backend+Developer+%E2%98%95;Developing+Efficient+Backend+Logic+%E2%9A%99%EF%B8%8F;Optimizing+Database+Queries+%F0%9F%92%BE;Open+to+Work+%7C+Immediate+Joiner+%E2%9C%85" alt="Typing SVG" />
   </a>
   
 </div> 

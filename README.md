@@ -88,7 +88,31 @@ I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journe
 ---
 
 ### &nbsp;&nbsp;📊 GitHub Analytics
+### &nbsp;&nbsp;📊 Deep Dive Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PawanTiwari23&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="150" alt="Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanTiwari23&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" height="150" alt="Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanTiwari23&theme=gruvbox&hide_border=true" alt="Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanTiwari23&theme=react-dark&bg_color=1D2021&color=689d6a&line=458588&point=d3869b&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PawanTiwari23/PawanTiwari23/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 
 <br/>

@@ -104,7 +104,7 @@ I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journe
 
 
 
----------------
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PawanTiwari23&show_icons=true&theme=radical&hide_border=false&count_private=false" height="150" alt="Stats" />
   
@@ -116,6 +116,7 @@ I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journe
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanTiwari23&theme=radical&hide_border=false" alt="Streak" />
 </div>
+-->
 
 <br/>
 

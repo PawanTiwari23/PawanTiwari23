@@ -174,6 +174,32 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate fr
   </a>
 
   <br/><br/>
+
+  ---
+
+### &nbsp;&nbsp;🤝 Connect with Me & Coding Profiles
+
+<div align="center">
+  <a href="mailto:pawantiwari.wd.bca.22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/pawantiwari-p979817/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://leetcode.com/PawanTiwari23/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/PawanTiwari23">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f9b0f&height=100&section=footer" width="100%" alt="Footer" />
+</div>
   
   <img src="https://komarev.com/ghpvc/?username=PawanTiwari23&style=flat-square&color=25D366&label=Profile+Views" alt="views" />
 </div>

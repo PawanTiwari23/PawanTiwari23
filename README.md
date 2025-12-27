@@ -122,7 +122,9 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate fr
 ![Snake Animation](https://github.com/PawanTiwari23/PawanTiwari23/raw/output/github-contribution-grid-snake.svg)
 
 
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=PawanTiwari23&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
 
 <!--
 <div align="center">

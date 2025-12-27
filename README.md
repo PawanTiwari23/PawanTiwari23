@@ -17,37 +17,7 @@
 -->
 <br/>
 
-### &nbsp;&nbsp;👨‍💻 About Me
 
-
-
-<!--
-
-<img align="right" width="140" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding Gif" />
-
-Hi, I'm **Pawan Tiwari**! 👋  
-I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate. With strong logic-building skills and hands-on internship experience, I am ready to build scalable, secure, and efficient backend systems.
-
-<a href="https://www.linkedin.com/in/pawantiwari-p979817/">
-  <img src="https://img.shields.io/badge/Current_Status-Open_to_Work-success?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open To Work" />
-</a>
-<a href="mailto:pawan.tiwari.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Hire_Me-Immediate_Joiner-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
-</a>
-
-<br/>
-
-* 👨‍💻 **Role:** Java Backend Developer (Fresher).
-* 🎓 **Education:** MCA (2025) from **GD Goenka University**.
-* 💼 **Experience:** Former Intern at **MyDaily Work** & **Cognifyz Technologies**.
-* 🌱 **Current Focus:** Advancing my skills in **Spring Boot, Hibernate ORM & Microservices**.
-* 🛠 **Tech Stack:** `Java Core/Adv` `MySQL` `JDBC` `JSP/Servlet`
-* 🚀 **Key Projects:** **Fit Track** (Gym CRM) & **Quantum Attend** (Smart QR Attendance).
-* 💡 **Why Hire Me?** I don't just write code; I write **clean, optimized, and bug-free logic**.
-
----
-
---->
 
 ### &nbsp;&nbsp;👨‍💻 About Me
 

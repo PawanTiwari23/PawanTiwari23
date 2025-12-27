@@ -175,5 +175,5 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate fr
 
   <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=PawanTiwari23&style=flat-square&color=25D366&label=Profile+Views" alt="views" weidth="40" hright="40" />
+  <img src="https://komarev.com/ghpvc/?username=PawanTiwari23&style=flat-square&color=25D366&label=Profile+Views" alt="views" />
 </div>

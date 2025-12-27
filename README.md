@@ -94,17 +94,9 @@ I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journe
 
 ### &nbsp;&nbsp;📊 Deep Dive Analytics
 
-### 🚀 Stats & Analytics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawanTiwari23&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanTiwari23&layout=compact&theme=radical)
 
-### 📂 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🐍 Snake Animation
 ![Snake Animation](https://github.com/PawanTiwari23/PawanTiwari23/raw/output/github-contribution-grid-snake.svg)

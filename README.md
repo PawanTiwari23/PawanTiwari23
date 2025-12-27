@@ -44,6 +44,10 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate fr
 * 🛠 **Tech Stack:** `Java Core/Adv` `MySQL` `JDBC` `JSP/Servlet`
 * 🚀 **Key Projects:** **Fit Track** (Gym CRM) & **Quantum Attend** (Smart QR System).
 * 💡 **Why Hire Me?** I have strong logic-building skills and a knack for solving complex backend problems.
+  <br/>
+  <a href="https://github.com/PawanTiwari23/PawanTiwari23/blob/main/Pawan_Tiwari_JavaDeveloper_Fresher.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download_Resume-PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
+</a>
 
 ---
 

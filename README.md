@@ -19,12 +19,9 @@
 
 ### &nbsp;&nbsp;👨‍💻 About Me
 
-<img align="right" width="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding Gif" />
 
-Hi, I'm **Pawan Tiwari**! 👋  
-I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journey started with a curiosity for how systems work, which led me to master **Java, Spring Boot, and Microservices**.
 
-### &nbsp;&nbsp;👨‍💻 About Me
+<!--
 
 <img align="right" width="140" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding Gif" />
 
@@ -49,6 +46,32 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate. W
 * 💡 **Why Hire Me?** I don't just write code; I write **clean, optimized, and bug-free logic**.
 
 ---
+
+--->
+
+### &nbsp;&nbsp;👨‍💻 About Me
+
+<img align="right" width="140" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding Gif" />
+
+Hi, I'm **Pawan Tiwari**! 👋  
+I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate from **GD Goenka University**. With hands-on experience in building scalable systems like **Gym CRMs** and **QR Attendance Apps**, I specialize in writing optimized, bug-free Java code.
+
+<a href="https://www.linkedin.com/in/pawantiwari-p979817/">
+  <img src="https://img.shields.io/badge/Current_Status-Open_to_Work-success?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open To Work" />
+</a>
+<a href="mailto:pawantiwari.wd.bca.22@gmail.com">
+  <img src="https://img.shields.io/badge/Hire_Me-Immediate_Joiner-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
+</a>
+
+<br/>
+
+* 👨‍💻 **Role:** Java Backend Developer (Fresher).
+* 🎓 **Education:** MCA (2025) & BCA (2022).
+* 💼 **Experience:** Former Intern at **MyDaily Work** & **Cognifyz Technologies**.
+* 🌱 **Upskilling:** Deepening expertise in **Spring Boot, Hibernate ORM & Microservices**.
+* 🛠 **Tech Stack:** `Java Core/Adv` `MySQL` `JDBC` `JSP/Servlet`
+* 🚀 **Key Projects:** **Fit Track** (Gym CRM) & **Quantum Attend** (Smart QR System).
+* 💡 **Why Hire Me?** I have strong logic-building skills and a knack for solving complex backend problems.
 
 ---
 

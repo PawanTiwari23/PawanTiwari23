@@ -8,9 +8,10 @@
   </a>
 </div>
 
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PawanTiwari23&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=PawanTiwari23&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy" />
   </a>
 </div>
 
@@ -87,7 +88,7 @@ I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journe
 
 ---
 
-### &nbsp;&nbsp;📊 GitHub Analytics
+
 ### &nbsp;&nbsp;📊 Deep Dive Analytics
 
 <div align="center">
@@ -109,6 +110,31 @@ I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journe
 </div>
 
 <br/>
+
+
+
+### &nbsp;&nbsp;📊 Deep Dive Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PawanTiwari23&show_icons=true&theme=radical&hide_border=false&count_private=true" height="150" alt="Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanTiwari23&layout=compact&theme=radical&hide_border=false&langs_count=6" height="150" alt="Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanTiwari23&theme=radical&hide_border=false" alt="Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanTiwari23&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PawanTiwari23/PawanTiwari23/output/github-contribution-grid-snake.svg" alt="Snake Animation" />

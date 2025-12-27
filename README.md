@@ -94,15 +94,8 @@ I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journe
 
 ### &nbsp;&nbsp;📊 Deep Dive Analytics
 
-### 📊 My GitHub Stats
 
-![Pawan's Stats](https://github-readme-stats.vercel.app/api?username=PawanTiwari23&theme=radical&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanTiwari23&layout=compact&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=PawanTiwari23&theme=radical)
-
-![Snake](https://raw.githubusercontent.com/PawanTiwari23/PawanTiwari23/output/github-contribution-grid-snake.svg)
 
 
 

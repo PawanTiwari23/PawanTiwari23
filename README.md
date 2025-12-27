@@ -106,7 +106,7 @@ I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journe
 
 ---------------
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PawanTiwari23&show_icons=true&theme=radical&hide_border=false&count_private=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PawanTiwari23&show_icons=true&theme=radical&hide_border=false&count_private=false" height="150" alt="Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanTiwari23&layout=compact&theme=radical&hide_border=false&langs_count=6" height="150" alt="Languages" />
 </div>
@@ -125,27 +125,21 @@ I am a **Java Backend Developer** and an **MCA 2025** graduate. My coding journe
 
 <br/>
 
-### 🏆 Achievements & Streaks
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PawanTiwari23" alt="trophy" />
-  </a>
-</div>
 
 <br/>
------
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanTiwari23&hide_border=true" alt="GitHub Streak" />
 </div>
-
+-->
 
 
 <br/>
 
 
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f9b0f&height=100&section=footer" width="100%" />

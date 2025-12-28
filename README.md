@@ -62,29 +62,7 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate fr
 </div>
 
 ---
-### &nbsp;&nbsp;🏆 Achievements & Certifications
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Degree-MCA_2025_Graduate-FFD700?style=for-the-badge&logo=google-scholar&logoColor=black" alt="MCA" />
-  
-  <img src="https://img.shields.io/badge/Certified-Java_Developer_(ThinkNext)-0078D4?style=for-the-badge&logo=certificate&logoColor=white" alt="Certificate" />
-
-  <br/> <br/>
-
-  <img src="https://img.shields.io/badge/Projects-2_Major_Builds-25D366?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  
-  <img src="https://img.shields.io/badge/Problem_Solving-Java_Logic_Strong-FF6C37?style=for-the-badge&logo=codeforces&logoColor=white" alt="Logic" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PawanTiwari23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
 
 ### &nbsp;&nbsp;📂 Featured Projects
 

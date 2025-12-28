@@ -125,18 +125,7 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate fr
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PawanTiwari23&show_icons=true&theme=radical&hide_border=false&count_private=false" height="150" alt="Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanTiwari23&layout=compact&theme=radical&hide_border=false&langs_count=6" height="150" alt="Languages" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanTiwari23&theme=radical&hide_border=false" alt="Streak" />
-</div>
----
 ### &nbsp;&nbsp;📊 Deep Dive Analytics
 <br/>
 

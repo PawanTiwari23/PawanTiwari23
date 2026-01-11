@@ -91,7 +91,7 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate fr
         Smart Attendance System that generates unique QR codes for employees/students. Scans and logs attendance instantly into the database with time-stamps.
       </p>
       <div align="center">
-        <a href="#">View Code ➔</a>
+        <a href="https://github.com/PawanTiwari23/Attendance_Solution.git">View Code ➔</a>
       </div>
     </td>
   </tr>

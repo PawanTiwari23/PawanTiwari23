@@ -78,7 +78,7 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate fr
         A comprehensive desktop app for managing Gym Memberships, Plans, and Trainers. Features include fee tracking, receipt generation, and session scheduling.
       </p>
       <div align="center">
-        <a href="#">View Code ➔</a>
+        <a href="https://github.com/PawanTiwari23/Gym-Management-System-GUI.git">View Code ➔</a>
       </div>
     </td>
     <td width="50%">

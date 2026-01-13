@@ -162,7 +162,7 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate fr
   <a href="mailto:pawan.tiwari.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-  <a href="https://linkedin.com/in/pawantiwari-p979817/">
+  <a href="https://linkedin.com/in/pawantiwaridev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="https://instagram.com/PawanTiwari3237">

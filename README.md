@@ -102,10 +102,15 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate fr
 ### &nbsp;&nbsp;💼 Professional Experience
 
 **ThinkNext Technologies, Mohali** _(Java Developer Intern)_
-> *Developed and optimized REST APIs using Spring Boot.*
-> * Implemented **JWT Authentication** for secure login systems.
-> * Worked on **MySQL** schema design and complex queries.
-> * Collaborated with the frontend team to integrate APIs.
+### 💼 Industrial Experience
+
+**ThinkNext Technologies, Mohali**
+*Java Developer Intern* | *[Start Date] – [End Date]*
+
+- Developed scalable web applications implementing the **Spring Web MVC** architecture and **Core Java** for robust business logic.
+- Designed and managed relational databases using **MySQL**, writing complex SQL queries and utilizing **JDBC** for efficient data transactions.
+- Built dynamic user interfaces using **JSP (JavaServer Pages)** and **JSTL**, ensuring seamless data binding between the view and the controller.
+- Implemented secure user authentication and session management using **Java Servlets** and **Servlet Filters**.
 
 ----
 

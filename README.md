@@ -28,10 +28,10 @@
 Hi, I'm **Pawan Tiwari**! 👋  
 I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate from **GD Goenka University**. With hands-on experience in building scalable systems like **Gym CRMs** and **QR Attendance Apps**, I specialize in writing optimized, bug-free Java code.
 
-<a href="https://www.linkedin.com/in/pawantiwari-p979817/">
+<a href="https://www.linkedin.com/in/pawantiwaridev/">
   <img src="https://img.shields.io/badge/Current_Status-Open_to_Work-success?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open To Work" />
 </a>
-<a href="mailto:pawantiwari.wd.bca.22@gmail.com">
+<a href="mailto:pawan.tiwari.dev@gmail.com">
   <img src="https://img.shields.io/badge/Hire_Me-Immediate_Joiner-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
 </a>
 

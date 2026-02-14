@@ -168,10 +168,7 @@ I am a results-driven **Java Backend Developer** and an **MCA 2025** graduate fr
   <a href="https://instagram.com/PawanTiwari3237">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
-    ## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pawantiwaridev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawantiwaridev/)
-[![GitHub](https://img.shields.io/badge/GitHub-PawanTiwari23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PawanTiwari23)
+    
 
   <br/><br/>
 
